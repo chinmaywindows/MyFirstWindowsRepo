@@ -90,3 +90,4 @@ C:\Projects\MyFirstWindowsRepo\MyFirstWindowsRepo\obj\Release\MyFirstWindowsRepo
 C:\Projects\MyFirstWindowsRepo\MyFirstWindowsRepo\obj\Release\MyFirstWindowsRepo.csproj.CopyComplete
 C:\Projects\MyFirstWindowsRepo\MyFirstWindowsRepo\obj\Release\MyFirstWindowsRepo.dll
 C:\Projects\MyFirstWindowsRepo\MyFirstWindowsRepo\obj\Release\MyFirstWindowsRepo.pdb
+C:\Projects\MyFirstWindowsRepo\MyFirstWindowsRepo\obj\Release\MyFirstWindowsRepo.csprojAssemblyReference.cache
